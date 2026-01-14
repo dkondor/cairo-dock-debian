@@ -776,6 +776,7 @@ Recommends: ayatana-indicator-bluetooth,
             ayatana-indicator-keyboard,
             ayatana-indicator-notifications,
             ayatana-indicator-printers
+Provides: indicator-renderer
 Description: Indicator plug-in for Cairo-dock
  A collection of official plug-ins and applets for cairo-dock.
  .
